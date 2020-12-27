@@ -4,11 +4,11 @@
 ### More about me
 
 I like simplicity.
-#### Creativity, responsibility, organization are the three main soft-skills that define me best at work.
+#### Creativity, responsibility, organization are the three main soft-skills that define me best at work :muscle:.
 
 I develop projects alone or in a team, I develop web, desktop and mobile applications. as a freelance I have already created two web applications ( [Kubwacu](https://www.kubwacu.com) and internal company web applications ).
 
-Love, hope and forgiveness are the most important in my life
+Love :heart: , hope and forgiveness are the most important in my life :star2: .
 ___
 
 |My github statistics|Used languages|This profile's visit times|
