@@ -1,5 +1,5 @@
 # Hi :open_hands: , my name is Huzaifa Nimushimirimana :sunglasses: I am Burundian
-###### In short, I am a fullstack developer, with a diploma in computer science and telecommunications and several certificates obtained via training courses followed live and online.
+#### In short, I am a fullstack developer, with a diploma in computer science and telecommunications and several certificates obtained via training courses followed live and online.
 
 ### More about me
 
