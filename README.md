@@ -3,8 +3,8 @@
 
 ### More about me
 
-I like simplicity
-Creativity, responsibility, organization are the three main soft-skills that define me best at work
+I like simplicity.
+Creativity, responsibility, organization are the three main soft-skills that define me best at work.
 
 I develop projects alone or in a team, I develop web, desktop and mobile applications. as a freelance I have already created two web applications ( [Kubwacu](https://www.kubwacu.com) and internal company web applications ).
 
