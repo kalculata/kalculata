@@ -14,4 +14,6 @@ ___
 
 |My statistics|Number of profile visit|
 |-|-|
-|[![kalculata's github stats](https://github-readme-stats.vercel.app/api?username=kalculata&show_icons=true&theme=dark&hide_title=true)](https://github.com/kalculata)|![Visitors](https://profile-counter.glitch.me/%7Bkalculata%7D/count.svg)
+|[![kalculata's github stats](https://github-readme-stats.vercel.app/api?username=kalculata&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/kalculata)|![Visitors](https://profile-counter.glitch.me/%7Bkalculata%7D/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalculata&theme=tokyonight)
