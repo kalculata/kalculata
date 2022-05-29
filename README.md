@@ -1,5 +1,5 @@
 # Hi, I'm Huzaifa Nimushimirimana
-I'm CEO and founder at [Kubwacu](https://www.kubwacu.com)
+I'm CEO and founder at [Kubwacu](https://www.kubwacu.com).
 # About me
 I mainly code with python but i can code in other languages too. 
 ```c++
