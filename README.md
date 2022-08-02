@@ -1,12 +1,10 @@
 # Hi, I'm Huzaifa Nimushimirimana
-I'm CEO and founder at [Kubwacu](https://www.kubwacu.com).
-# About me
-I mainly code with python but i can code in other languages too. 
+I'm CEO and founder at [Kubwacu](https://www.kubwacu.com). I mainly code with python but i can code in other languages too (C++, PHP, JS, SQL Flutter...). 
 ```c++
 #include <iostream>
 
 int main(){
-  std::cout << "More about me I am Burundian :)" << std::endl;
+  std::cout << "I am Burundian :)" << std::endl;
   return 0;
 }
 ```
